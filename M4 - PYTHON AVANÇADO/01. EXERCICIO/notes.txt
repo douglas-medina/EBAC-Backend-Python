@@ -1,0 +1,8 @@
+Resumo:
+Processos e threads
+Sincrono e Assincrono
+TDD
+Breve introdução a Big O e Algoritimos Classicos
+
+Exercicio:
+Webscraping usando python

@@ -1,0 +1,3 @@
+GIT PULL(puxar) -> traz as informações, update etc
+GIT CLONE -> Clona o repositório
+GIT PUSH(empurra) -> leva as informações
